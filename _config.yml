@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
+title: milaromascafeyarte
+locale: es
+description: Mil Aromas Café y Arte
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://milaromascafeyarte.github.io/1000A/
 
 # Jekyll configuration
 
