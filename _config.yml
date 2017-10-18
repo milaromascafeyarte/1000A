@@ -36,12 +36,12 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Mil Aromas Café y Arte
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: milaromascafeyarte@gmail.com
   disqus-shortname:
   twitter: #username
-  facebook: #username
+  facebook: #milaromascafeyarte
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
@@ -51,7 +51,7 @@ owner:
   pinterest: #username
   weibo: #userid
   google:
-    plus: #username
+    plus: #milaromascafeyarte
     analytics:
     verify:
     ad-client:
